@@ -4,7 +4,6 @@
 {
     .app-container
     {
-        background-color: red !important;
         width: 70%;
         transition: all ease 0.5s;
         height: 100vh !important;
@@ -49,7 +48,6 @@
         width: 90%;
         height: 100vh;
         transition: all ease 0.9s;
-        background-color: green !important;
     }
     .today
     {
@@ -68,7 +66,6 @@
     .goal-conatiner
     {
        padding: 6vw 3vw;
-       background-color: red;
     }
     .custom-checkbox
     {
